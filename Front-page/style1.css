@@ -1,0 +1,106 @@
+.nav-custom{
+    background-color: #fc4445;
+    border-radius: 25px;
+    margin: 20px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.nav-linksty{
+    color: white;
+    margin: 10px;
+    font-weight: 400;
+}
+
+.main-titly{
+    padding-right: 30px;
+    padding-left: 20px;
+}
+
+.main-titly-style{
+    padding-right: 30px;
+    color: white;
+    margin: 10px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.img-size{
+    width: 100%;
+    height: 700px;
+    border-radius: 40px;
+}
+
+.working-text{
+    text-align: center; 
+    padding: 20px; 
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
+
+.body-margin{
+    margin-right: 12;
+}
+
+.page-title{
+    text-align: center;
+    padding-bottom: 10px;
+    color: #fc4445;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
+
+.div-style{
+    text-align: center; 
+    color: #fc4445; 
+    font-weight: bolder; 
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+.div-style-t{
+    text-align: center; 
+    color: white; 
+    font-weight: bolder; 
+    font-family: 'Courier New', Courier, monospace;
+    padding-bottom: 20px;
+}
+
+.page-title-t{
+    text-align: center;
+    padding-top: 20px;
+    color: #fc4445;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    padding-bottom: 20px;
+}
+
+.div-style-ta{
+    text-align: center; 
+    color: #fc4445; 
+    font-weight: bolder; 
+    font-family: 'Courier New', Courier, monospace;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.footer-text{
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    font-weight: bolder;
+}
+
+.link-style{
+    text-decoration: none;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+.dem-style{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
